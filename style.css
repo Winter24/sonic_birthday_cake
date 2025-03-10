@@ -173,3 +173,9 @@ body {
     from { transform: translateY(0); }
     to { transform: translateY(-20px); }
 }
+
+.happy-8-3 {
+    font-size: 2rem;    /* Increase text size */
+    text-align: center; /* Center the text horizontally */
+  }
+  
